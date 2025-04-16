@@ -1,0 +1,2 @@
+echo "Hi all, may god with me in everything"
+echo "Om Namah Shivayya"
